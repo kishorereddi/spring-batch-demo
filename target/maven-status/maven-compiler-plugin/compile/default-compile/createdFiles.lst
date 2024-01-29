@@ -1,0 +1,8 @@
+com\kishore\config\CustomProcessor.class
+com\kishore\config\SpringBatchConfig.class
+com\kishore\rest\CustomerRestController.class
+com\kishore\config\SpringBatchConfig$PassThroughLineAggregator.class
+com\kishore\Application.class
+com\kishore\config\CustomWriter.class
+com\kishore\GetApiExample.class
+com\kishore\entity\Customer.class
